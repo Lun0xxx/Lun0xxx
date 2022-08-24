@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lun0xxx
 - 👀 I’m interested in Programmation languages
-- 🌱 I’m currently learning Python and C
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on each projects. If I can help in any projects, it will be a pleasure :)
 - 📫 How to reach me -> // Discord : lunoxx#4927 // Twitter : @aguav1_ //
 
