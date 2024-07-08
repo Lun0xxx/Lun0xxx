@@ -2,9 +2,8 @@
 - 🇫🇷 I'm French
 - 📚 I'm currently studying a BUT Informatique (Computer Sciences) in France
 - 👀 I’m interested in Programming languages and Cybersecurity
-- 🌱 I’m currently learning Python, Java, PHP and VueJS!
+- 🌱 I’m currently learning ReactJS and NestJS
 - 💞️ I’m looking to collaborate on each projects. If I can help in any projects, it would be a pleasure :)
-- 📫 How to reach me -> // Discord : .lunoxx // Twitter : @aguav1_ //
 
 <!---
 Lun0xxx/Lun0xxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
