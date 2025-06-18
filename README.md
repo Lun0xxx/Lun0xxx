@@ -2,7 +2,7 @@
 - 🇫🇷 I'm French
 - 📚 I'm currently studying a BUT Informatique (Computer Sciences) in France
 - 👀 I’m interested in Programming languages and Cybersecurity
-- 🌱 I’m currently learning VueJS and NestJS
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on each projects. If I can help in any projects, it would be a pleasure :)
 
 <!---
